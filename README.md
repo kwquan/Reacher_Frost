@@ -8,7 +8,7 @@ Similar to Frozen Lake, the goal of the agent is to find the optimal path from S
 Instead of a penguin, we have a robotic arm with an end-effector plotting out the optimal path.
 
 ### Agent Training
-![alt text](https://github.com/kwquan/Reacher_Frost/blob/main/reacher_update.jpg)
+![alt text](https://github.com/kwquan/Reacher_Frost/blob/main/reacher_training.jpg)
 
 ### Agent Control
 ![alt text](https://github.com/kwquan/Reacher_Frost/blob/main/reacher_control.jpg)
