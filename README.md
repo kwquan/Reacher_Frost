@@ -9,3 +9,6 @@ Instead of a penguin, we have a robotic arm with an end-effector plotting out th
 
 ### Agent Training
 ![alt text](https://github.com/kwquan/Reacher_Frost/blob/main/reacher_update.jpg)
+
+### Agent Control
+![alt text](https://github.com/kwquan/Reacher_Frost/blob/main/reacher_control.jpg)
