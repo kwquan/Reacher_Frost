@@ -1,6 +1,9 @@
 # Reacher_Frost
 This repo contains the code used to solve Reacher Frost, which is a cross-over of OpenAI's Reacher & Frozen Lake environments, using Dynamic Programming
 
+# Isaac Sim[requires installation & setup of Isaac Sim]
+In command line, cd to isaac sim folder & run "python.bat path/to/agent.py"
+
 # Dynamic Programming
 ![alt text](https://github.com/kwquan/Reacher_Frost/blob/main/reacher_states.png)
 ![alt text](https://github.com/kwquan/Reacher_Frost/blob/main/reacher_start.png)
