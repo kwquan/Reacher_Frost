@@ -3,6 +3,7 @@ This repo contains the code used to solve Reacher Frost, which is a cross-over o
 
 # Isaac Sim[requires installation & setup of Isaac Sim]
 ![alt text](https://github.com/kwquan/Reacher_Frost/blob/main/command_line.png)
+
 In command line, cd to isaac sim folder & run "python.bat path/to/agent.py"
 
 # Dynamic Programming
